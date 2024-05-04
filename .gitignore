@@ -1,0 +1,16 @@
+data
+.idea
+__pycache__
+runs
+bsub.yaml
+bsub.yml
+stderr.log
+stdout.log
+bsub*
+.npy
+.csv
+.png
+.jpg
+
+temp
+trained_model_weights

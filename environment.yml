@@ -1,0 +1,23 @@
+name: bio
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - biopython
+  - h5py
+  - hdf5
+  - matplotlib
+  - python
+  - pytorch
+  - seaborn
+  - torchaudio
+  - torchvision
+  - tqdm
+  - pip:
+    - numpy
+    - opt-einsum
+    - pickleshare
+    - pyaml
+    - pyyaml
+    - scikit-learn
+    - scipy
